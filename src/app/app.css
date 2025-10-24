@@ -1,0 +1,21 @@
+:host {
+  display: block;
+  min-height: 100vh;
+  background-color: #f8f9fa;
+}
+
+.card {
+  border: none;
+}
+
+.card-header {
+  font-weight: 600;
+}
+
+.table thead th {
+  border-top: none;
+}
+
+.table-responsive {
+  max-height: 420px;
+}
